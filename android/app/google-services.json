@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626622535340",
+    "project_id": "logaa-d733f",
+    "storage_bucket": "logaa-d733f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626622535340:android:856f62204e97e7cd4ef109",
+        "android_client_info": {
+          "package_name": "com.example.logaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylfpIxt7U3lzzMp_nkkYpQQ_-2go2iu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626622535340:android:42120afcab912c734ef109",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylfpIxt7U3lzzMp_nkkYpQQ_-2go2iu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
